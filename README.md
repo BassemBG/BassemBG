@@ -3,7 +3,7 @@
 <div>
   <a href="https://www.linkedin.com/in/bassem-ben-ghorbel-13539b227/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon" /></a>
   <a href="https://stackoverflow.com/users/14090236/bassem-ben-ghorbel">  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stack overflow Icon" /></a>
-  <a href="https://codeforces.com/profile/BassemBG"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Icon" /></a>.
+  <a href="https://codeforces.com/profile/BassemBG"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Icon" /></a>
   <a href="https://bgbassem8.wixsite.com/neuroai/blog"><img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Icon" /></a>
 </div>
 
