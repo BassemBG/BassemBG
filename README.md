@@ -1,6 +1,8 @@
 ## Hi there, I'm Bassem 👋
 
-  <img width=50 src="https://github-readme-stats.vercel.app/api?username=BassemBG&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en](https://media.giphy.com/media/11SIBu3s72Co8w/giphy.gif?cid=790b76115c5szf82u7c91q0yti9ux1fi9ucnw6ydwbky6zp1&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="Friends Meme" />
+<div align=center>
+  <img width=350 src="https://media.giphy.com/media/11SIBu3s72Co8w/giphy.gif?cid=790b76115c5szf82u7c91q0yti9ux1fi9ucnw6ydwbky6zp1&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Friends Meme" />
+</div>
 
 I'm a full-stack software engineer that builds high-performant and well-structured software applications. 
 
